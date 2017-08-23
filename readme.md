@@ -1,0 +1,3 @@
+# devanooga-meta
+
+This repository is for keeping documentation on anything related to devanooga as an organization. This will include things such as official members and positions, documentation on things such as devanooga's legal status, location of paperwork and accounting databases, and documentation on where to find more publically consumable versions of these documents (eg: accounting may be kept in an application like Quickbooks, which isn't really accessible or easily shared, but we'll keep PDFs/Excel sheet exports for the community to read and consume).
