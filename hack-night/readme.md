@@ -10,4 +10,4 @@ Sometimes we play games like [Keep Talking and Nobody Explodes](http://www.bombm
 
 ## Food
 
-Food is typically provided, check out [food.md] for details on food options.
+Food is typically provided, check out [food.md](food.md) for details on food options.
