@@ -11,3 +11,9 @@ Sometimes we play games like [Keep Talking and Nobody Explodes](http://www.bombm
 ## Food
 
 Food is typically provided, check out [food.md](food.md) for details on food options.
+
+## Projects
+
+For those that are interested we have group projects we work on during hack nights. Contribution to these is entirely optional and you can join or leave group projects whenever you want. Work on these group projects will happen parallel to whatever other activities we may be doing during hack nights, in a separate room if a quiet atmosphere is necessary.
+
+Check out [projects.md](projects.md) for a list of project ideas and ongoing projects. Feel free to add project ideas to it via pull request.
