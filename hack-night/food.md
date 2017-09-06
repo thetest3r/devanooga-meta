@@ -14,15 +14,19 @@ We current order from Dominos.
 	- Pepperoni
 	- Italian Sausage
 	- Bacon
-- Large 14" hand tossed pizza
-	- Pepperoni
+- Large 14" hand tossed
+	- Salami
 	- Ham
-	- Italian Sausage
+	- Bacon
 - Large 14" thin pizza
 	- Bacon
 	- Shredded Parmesan
-	- Onions
+	- Onions	
 - Large 14" hand tossed
 	- Salami
 	- Cheddar Cheese
 	- Shredded Parmesan
+- Large 14" hand tossed pizza
+	- Pepperoni
+	- Ham
+	- Italian Sausage
