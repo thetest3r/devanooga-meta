@@ -30,3 +30,4 @@ TBD
 - Find a use for all those domains Ryan Maynard (@ryanmaynard) owns
 	- i.e. nametheninthplanet.com was one. Was going to poll twitter for the hashtag… maybe even joke that its “brought to you by Taco Bell” and suggest Chalupiter - @ryanmaynard
 	- I bought asshat.club with the idea that I would print cars to leave under windshield wipers for shitty parking - @ryanmaynard
+- A devanoobot `/david` command that responds with David’s current username and picture (and maybe CC @strangewill in the response?) (suggested by @agarzola)
