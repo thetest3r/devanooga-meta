@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+9/20/2017|8:40PM EST|Remove Removed: #android, #business, #dontgetmestarted, #dontgetwillstarted, #jobs, #math, #mce, #meyouandi, #parking-hall-of-shame, #philosophy, #r, #rum-lang, #rust, #shady_dealings, #sysadmins, #tadpole, #television, #wce, #z|Inactive channel cleanup|StrangeWill
 8/29/2017|3:05PM EST|Remove image by ryanmaynard from #random|Keep chat work appropriate|StrangeWill
 7/13/2017|8:15PM EST|Remove messages by ryanbales, danham, shaneboyar, seabre from #opportunities|Off topic|StrangeWill
 7/13/2017|10:54AM EST|Removed posts by jmanderson and sauerkraus from #opportunities|Off topic|bobby_brb3
