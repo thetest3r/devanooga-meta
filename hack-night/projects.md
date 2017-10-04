@@ -21,8 +21,6 @@ TBD
 	
 - Fake news generator that previews whatever you want on Facebook, etc. Then whenever you click into the actual link, it tells you that you're an idiot. (suggested by Sean Brewer - @seabre)
 	
-- Slackbot slash command to create an issue in the ideas repo / append to the project.md file (suggested by Will Lewis - @willamin)
-
 - Live coding night to write some sick tunes on the fly (suggested by Paul Smith - @auximage)
 
 - Research a way to update the hack night date on the homepage automagically
