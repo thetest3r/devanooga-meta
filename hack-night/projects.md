@@ -31,3 +31,4 @@ TBD
 	- i.e. nametheninthplanet.com was one. Was going to poll twitter for the hashtag… maybe even joke that its “brought to you by Taco Bell” and suggest Chalupiter - @ryanmaynard
 	- I bought asshat.club with the idea that I would print cars to leave under windshield wipers for shitty parking - @ryanmaynard
 - A service that takes a JSON object and returns an HTML form, possibly as a free service that accepts POST requests with the JSON in the body. (via @strangewill) (suggested by @agarzola)
+- Mine cryptocoin in-browser for content creators as an alternative to online advertising (suggested by @bobby_brb3)
