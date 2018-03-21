@@ -34,3 +34,5 @@ TBD
 - Mine cryptocoin in-browser for content creators as an alternative to online advertising (suggested by @bobby_brb3)
 - add a place on the website for @ryanmaynard to post all his playlists (suggested by @sauerkraus)
 - Create a devanoobot command that posts the current dollar value of bitcoin (or any other cryptocurrency) to the channel. Maybe taking inspiration from https://devanooga.slack.com/archives/C3X07MGLQ/p1520879455000511 (suggested by @Herr Sauerkraus and @willamin)
+
+- a bot for #holywars that starts and stops wars, voting, and pushes results to an api to log them (suggested by @sauerkraus)
