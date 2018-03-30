@@ -6,5 +6,5 @@ Date|Time|Action|Reason|Administrator
 2017-07-13|8:15PM EST|Remove messages by ryanbales, danham, shaneboyar, seabre from #opportunities|Off topic|StrangeWill
 2017-07-13|10:54AM EST|Removed posts by jmanderson and sauerkraus from #opportunities|Off topic|bobby_brb3
 2017-07-11|5:25PM EST|Cleaned up ryanbales and bobby_brb3 messages from #opportunities|Off topic|StrangeWill
-2017-07-3|9:00AM EST|Asked alt-right-seabre to disable account, user disabled their own account.|Alt accounts are against our CoC.|agarzola
-2017-07-1|7:20PM EST|Deleted #alts|Alt accounts are against our CoC.|StrangeWill
+2017-07-03|9:00AM EST|Asked alt-right-seabre to disable account, user disabled their own account.|Alt accounts are against our CoC.|agarzola
+2017-07-01|7:20PM EST|Deleted #alts|Alt accounts are against our CoC.|StrangeWill
