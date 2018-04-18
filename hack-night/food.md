@@ -30,3 +30,14 @@ We current order from Dominos.
 	- Pepperoni
 	- Ham
 	- Italian Sausage
+	
+## Dietary Options
+
+When requested, we will swap out the "lowest" priority pizza option with the following dietary options. For pizzas that can be half'd (depending on restrictions), we'll start with a half pizza and go up from there.
+
+### Vegan Orders
+
+- Large 14" hand tossed pizza
+	- Pineapple
+	- Black olives
+	- Green Peppers
