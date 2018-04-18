@@ -38,6 +38,7 @@ When requested, we will swap out the "lowest" priority pizza option with the fol
 ### Vegan Orders
 
 - Large 14" hand tossed pizza
+	- No cheese
 	- Pineapple
 	- Black olives
 	- Green Peppers
