@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2018-07-20|2:40PM EST|Removed image by @gabopaganfrom #random|Inappropriate image|StrangeWill
 2018-06-19|2:00PM EST|Deleted an off-topic message by @sam from #general.|Off topic|StrangeWill
 2018-05-25|12:50PM EST|Deleted a lewd message by @preacher from #general.|Message was sexually explicit.|agarzola
 2017-11-14|1:13PM EST|Deleted a video link in #general from bnewtonius.|Video had a racial slur in the title.|bobby_brb3
