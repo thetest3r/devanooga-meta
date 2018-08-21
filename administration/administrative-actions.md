@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2018-08-21|2:50PM EST|Removed messages/locked #general temporarily due to off-topic posts|StrangeWill
 2018-07-20|2:40PM EST|Removed image by @gabopaganfrom #random|Inappropriate image|StrangeWill
 2018-06-19|2:00PM EST|Deleted an off-topic message by @sam from #general.|Off topic|StrangeWill
 2018-05-25|12:50PM EST|Deleted a lewd message by @preacher from #general.|Message was sexually explicit.|agarzola
