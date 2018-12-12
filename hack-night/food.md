@@ -14,6 +14,10 @@ We current order from Dominos.
 	- Pepperoni
 	- Italian Sausage
 	- Bacon
+- Large 14" hand tossed pizza
+	- Philly Steak
+	- Chicken
+	- Beef
 - Large 14" hand tossed
 	- Salami
 	- Ham
@@ -42,8 +46,3 @@ When requested, we will swap out the "lowest" priority pizza option with the fol
 	- Pineapple
 	- Black olives
 	- Green Peppers
-### Kosher Orders
-- Large 14" hand tossed pizza
-	- Philly Steak
-	- Chicken
-	- Beef
