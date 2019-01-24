@@ -55,7 +55,7 @@ expenses:
         comment: Refund for fraud transactoins
         amount: 7.16
       - date: 2017-05-03
-        vendor: StickMule
+        vendor: StickerMule
         commnet: Devanooga stickers
         amount: 44
       - date: 2017-03-22
