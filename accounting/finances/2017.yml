@@ -52,7 +52,7 @@ expenses:
         amount: 1.29
       - date: 2017-04-14
         vendor: Stripe
-        comment: Refund for fraud transactoins
+        comment: Refund for fraud transactions
         amount: 7.16
       - date: 2017-05-03
         vendor: StickerMule
