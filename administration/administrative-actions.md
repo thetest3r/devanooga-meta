@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2019-04-06|03:01PM EST|Removed various off-topic pins from `#devanooga`|Just cleaning up off-topic pins so the useful on-topic ones aren't hidden from the noise|StrangeWill
 2018-11-14|10:35AM EST|Deleted `#general`|We're working on remedying #52, please do not attempt to create confusion for no good reason|StrangeWill
 2018-09-15|10:35AM EST|Removed messages from #events due to not threading discussion and pushing events off of the page|Violates channel rules|StrangeWill
 2018-08-21|2:50PM EST|Removed messages/locked #general temporarily due to off-topic posts|Off topic|StrangeWill
