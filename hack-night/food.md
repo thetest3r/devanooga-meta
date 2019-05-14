@@ -37,6 +37,17 @@ We current order from Dominos.
 
 When requested, we will swap out the "lowest" priority pizza option with the following dietary options. For pizzas that can be half'd (depending on restrictions), we'll start with a half pizza and go up from there.
 
+### Vegetarian Orders
+- Large 14" hand tossed pizza
+	- green peppers
+	- onions
+	- mushrooms
+	
+	OR 
+	
+- Large 14" hand tossed pizza
+	- cheese
+
 ### Vegan Orders
 
 - Large 14" hand tossed pizza
