@@ -11,6 +11,8 @@ We generally default to ordering pizza, we order about one pizza per 3 confirmed
 We current order from Dominos.
 
 - Large 14" hand tossed pizza
+	- Cheese
+- Large 14" hand tossed pizza
 	- Pepperoni
 	- Italian Sausage
 	- Bacon
@@ -18,10 +20,6 @@ We current order from Dominos.
 	- Philly Steak
 	- Chicken
 	- Beef
-- Large 14" hand tossed
-	- Salami
-	- Ham
-	- Bacon
 - Large 14" thin pizza
 	- Bacon
 	- Shredded Parmesan
