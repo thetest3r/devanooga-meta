@@ -1,6 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
-2019-07-02|05:00PM EST| Removed messages in #devanooga that were poltiical/NSFW in nature| ME.
+2019-07-02|05:00PM EST| Removed messages in #devanooga that were poltiical/NSFW in nature| off-topic | ME.
 2019-04-06|03:01PM EST|Removed various off-topic pins from `#devanooga`|Just cleaning up off-topic pins so the useful on-topic ones aren't hidden from the noise|StrangeWill
 2018-11-14|10:35AM EST|Deleted `#general`|We're working on remedying #52, please do not attempt to create confusion for no good reason|StrangeWill
 2018-09-15|10:35AM EST|Removed messages from #events due to not threading discussion and pushing events off of the page|Violates channel rules|StrangeWill
