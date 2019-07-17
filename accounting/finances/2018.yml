@@ -1,0 +1,86 @@
+year: 2018
+income:
+    transactions:
+      - date: 2018-05-21
+        amount: 5.84
+        contributor: Amazon Smile
+      - date: 2018-06-13
+        amount: 200
+        contributor: RoushTech, LLC
+      - date: 2018-08-16
+        amount: 100
+        contributor: James Anderson
+      - date: 2018-10-03
+        amount: 370
+        contributor: Roushtech, LLC
+      - date: 2018-10-18
+        amount: 7.91
+        contributor: Amazon Smile
+expenses:
+    transactions:
+      - date: 2018-05-17
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-05-31
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-06-14
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-06-16
+        vendor: Dominos
+        amount: 75.22
+      - date: 2018-06-28
+        vendor: Dominos
+        amount: 41.44
+      - date: 2018-06-28
+        vendor: Dominos
+        amount: 3.28
+      - date: 2018-07-13
+        vendor: Dominos
+        amount: 33.87
+      - date: 2018-07-26
+        vendor: Dominos
+        amount: 17.46
+      - date: 2018-07-28
+        vendor: Dominos
+        amount: 41.44
+      - date: 2018-08-09
+        vendor: Dominos
+        amount: 33.87
+      - date: 2018-08-16
+        vendor: DonorBox
+        amount: 3.20
+      - date: 2018-08-23
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-09-06
+        vendor: Mr. T's Pizza
+        amount: 35.11
+      - date: 2018-09-20
+        vendor: Dominos
+        amount: 26.18
+      - date: 2018-10-04
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-10-18
+        vendor: Dominos
+        amount: 34.92
+      - date: 2018-11-14
+        vendor: Walmart
+        amount: 16.14
+      - date: 2018-11-15
+        vendor: Dominos
+        amount: 35.46
+      - date: 2018-11-29
+        vendor: Dominos
+        amount: 26.19
+      - date: 2018-12-13
+        vendor: Dominos
+        amount: 26.19
+      - date: 2018-10-03
+        vendor: Division of Business Services
+        amount: 40.94
+      - date: 2018-10-03
+        vendor: Division of Business Services
+        amount: 71.64
