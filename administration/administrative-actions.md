@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2019-11-24|12:23PM EST| Removed Raman, Dashy, Sofya, Valery, Mila,  | appear to be bots, .ru/yandex e-mail domains | StrangeWill
 2019-10-30|10:35AM EST| Removed giphy butt gif | inappropriate content for `#general` | StrangeWill
 2019-10-10|09:22AM EST| Removed Smart Matter | suspected bot account | StrangeWill
 2019-07-02|05:00PM EST| Removed messages in #devanooga that were poltical/NSFW in nature| off-topic | ME
