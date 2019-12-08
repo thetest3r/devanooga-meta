@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2019-12-08|02:17PM EST| Deactivated `ewo ewo` - greekwou@gmail.com | Joined, changed #devanooga channel topic. Was told not to and dit it again | brb3
 2019-11-24|12:23PM EST| Removed Raman, Dashy, Sofya, Valery, Mila,  | appear to be bots, .ru/yandex e-mail domains | StrangeWill
 2019-10-30|10:35AM EST| Removed giphy butt gif | inappropriate content for `#general` | StrangeWill
 2019-10-10|09:22AM EST| Removed Smart Matter | suspected bot account | StrangeWill
