@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-01-18|8:21am EST| Deactivated `Bennie Liu` | Spam for Codugh.com platform -- not local user, not interested in the community, signed in, left spam, logged out, feel free to open a dispute if you're actually going to be part of the community | StrangeWill
 2019-12-08|02:17PM EST| Deactivated `ewo ewo` - greekwou@gmail.com | Joined, changed #devanooga channel topic. Was told not to and dit it again | brb3
 2019-11-24|12:23PM EST| Removed Raman, Dashy, Sofya, Valery, Mila,  | appear to be bots, .ru/yandex e-mail domains | StrangeWill
 2019-10-30|10:35AM EST| Removed giphy butt gif | inappropriate content for `#general` | StrangeWill
