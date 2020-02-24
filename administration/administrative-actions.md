@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-02-24|1:30pm EST | Cleaned up `#opportunities` | Removing non-threaded discussion to prevent pushing opportunities our of "above the fold" in the channel | StrangeWill
 2020-02-20|8:54am EST | Purged `#feels` | Removing a lot of unneeded rule-breaking issues | StrangeWill
 2020-02-19|12:12pm EST | Removed offensive comments from `#food` | Hateful commentary is not needed | StrangeWill
 2020-01-18|8:21am EST| Deactivated `Bennie Liu` - bennie@codugh.com | Spam for Codugh.com platform -- not local user, not interested in the community, signed in, left spam, logged out, feel free to open a dispute if you're actually going to be part of the community | StrangeWill
