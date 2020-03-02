@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-03-02|4:20pm EST | Removed `#thirdhalfofslack` | `#secondhalfofslack` is good enough, no need to make a joke channel | StrangeWill
 2020-02-24|1:30pm EST | Cleaned up `#opportunities` | Removing non-threaded discussion to prevent pushing opportunities our of "above the fold" in the channel | StrangeWill
 2020-02-20|8:54am EST | Purged `#feels` | Removing a lot of unneeded rule-breaking issues | StrangeWill
 2020-02-19|12:12pm EST | Removed offensive comments from `#food` | Hateful commentary is not needed | StrangeWill
