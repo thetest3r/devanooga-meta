@@ -1,8 +1,6 @@
 # devanooga legal
 
-We're currently in progress of working out our Tennessee non-profit status. The cost for doing so appears to be $100 and some paperwork. This should enable us to apply to 
-
-After that we're going to start the process to obtain our 501(c)3 status, as StrangeWill understands it -- it should be pretty straightfroward to do, but may take some time to actually obtain the status.
+See [501c3.md](501c3.md) for information regarding our 501(c)(3) status.
 
 ## Incorporator
 
@@ -10,8 +8,8 @@ After that we're going to start the process to obtain our 501(c)3 status, as Str
 
 ## Directors
 
- * Alfonso Gómez-Arzola
  * Bobby Burden
+ * Mario Ezra
  * William Roush
  
 ## Members
@@ -24,10 +22,5 @@ We're looking forward to having voting members in devanooga, keep an eye out as 
 
 ## 501(c)3 Status
 
- * 1023-EZ form + $275 filing fee. 
- 
-## Re-review...
-
- * Filling out SS-6001 if we pull in more than $30k/yr
- * Form 1023/1024 if we average > $10k/yr.
- * Filing Annual report date with state of Tennessee: 04/01/2018
+ * 1023-EZ form + $275 filing fee, yearly $30 renewal fee.
+ * Yearly 990N
