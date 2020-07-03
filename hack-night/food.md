@@ -11,13 +11,15 @@ We generally default to ordering pizza, we order about one pizza per 3 confirmed
 We current order from Dominos.
 
 - Large 14" hand tossed pizza
+	- Cheese
+- Large 14" hand tossed pizza
 	- Pepperoni
 	- Italian Sausage
 	- Bacon
-- Large 14" hand tossed
-	- Salami
-	- Ham
-	- Bacon
+- Large 14" hand tossed pizza
+	- Philly Steak
+	- Chicken
+	- Beef
 - Large 14" thin pizza
 	- Bacon
 	- Shredded Parmesan
@@ -34,6 +36,17 @@ We current order from Dominos.
 ## Dietary Options
 
 When requested, we will swap out the "lowest" priority pizza option with the following dietary options. For pizzas that can be half'd (depending on restrictions), we'll start with a half pizza and go up from there.
+
+### Vegetarian Orders
+- Large 14" hand tossed pizza
+	- green peppers
+	- onions
+	- mushrooms
+	
+	OR 
+	
+- Large 14" hand tossed pizza
+	- cheese
 
 ### Vegan Orders
 
