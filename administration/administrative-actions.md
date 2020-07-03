@@ -1,5 +1,6 @@
 Date|Time|Action|Reason|Administrator
 ---|---|---|---|---
+2020-07-03|8:53AM EST| Deactivated `@bless`for unsolicited messaging.| Most likely bot| ME.
 2018-09-15|10:35AM EST|Removed messages from #events due to not threading discussion and pushing events off of the page|Violates channel rules|StrangeWill
 2018-08-21|2:50PM EST|Removed messages/locked #general temporarily due to off-topic posts|Off topic|StrangeWill
 2018-07-20|2:40PM EST|Removed image by @gabopaganfrom #random|Inappropriate image|StrangeWill
